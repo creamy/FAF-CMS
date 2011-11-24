@@ -1,0 +1,29 @@
+FAF CMS
+
+by Waitman Gobble
+waitman@waitman.net
+(650) 396-7580
+San Jose California USA
+
+
+Tutorial: http://www.waitman.net/FAFCMS-mongodb-fastcgi.html
+
+
+Software:
+
+MongoDB
+http://www.mongodb.org/
+
+Mongo C Driver
+https://github.com/mongodb/mongo-c-driver
+http://www.mongodb.org/display/DOCS/C+Language+Center
+
+FastCGI (mod_fcgid)
+http://httpd.apache.org/mod_fcgid/
+http://www.fastcgi.com/
+
+Apache 2.2
+http://httpd.apache.org/
+
+
+
